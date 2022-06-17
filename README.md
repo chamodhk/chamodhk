@@ -8,3 +8,6 @@ I am chamodh nethsara who is a self-taught programmer. I write some codes whenen
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chamodhk&show_icons=true&theme=dark)
 
+Here are my top languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodhk)
