@@ -6,4 +6,5 @@ I am chamodh nethsara who is a self-taught programmer. I write some codes whenen
 
 - 🌱 I’m currently learning Python :snake:
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chamodhk&show_icons=true&theme=dark)
 
