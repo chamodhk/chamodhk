@@ -11,4 +11,5 @@ I am chamodh nethsara who is a self-taught programmer. I write some codes whenen
 Here are my top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodhk&layout=compact)
+<br>
 ![](https://komarev.com/ghpvc/?username=chamodhk)
