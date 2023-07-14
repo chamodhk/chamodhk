@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am chamodh nethsara who is a self-taught programmer. I write some codes whenenver I have a free time and they give me a lot of fun
+I am chamodh nethsara who is a self-taught programmer. I write some codes whenever I have free time and they give me a lot of fun
 
 
 
@@ -16,6 +16,6 @@ Here are my top languages
 
 
 
-#Notice
+# Notice
 
 All the environments that used Heroku are currently not functioning due to the recent changes in Heroku's billing policy.
