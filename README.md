@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am chamodh nethsara who is a self-taught programmer. I write some codes whenever I have free time and they give me a lot of fun
 
 
 
